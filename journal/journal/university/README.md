@@ -49,7 +49,7 @@ Practical work included:
 Specific academic challenges and solutions will be documented as they are recalled and verified.
 
 
-### 2. Data Structures
+
 
 ### 2. Data Structures
 
