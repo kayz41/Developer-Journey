@@ -51,13 +51,34 @@ Specific academic challenges and solutions will be documented as they are recall
 
 ### 2. Data Structures
 
+### 2. Data Structures
+
 - **Status:** Completed
 - **Completion Date:** Not recorded
-- **Topics Covered:** To be documented.
-- **Practical Exercises:** To be documented.
-- **Challenges and Solutions:** To be documented.
-- **Key Lessons:** To be documented.
 
+#### Topics Covered
+- Arrays.
+- Linked Lists.
+- Stacks.
+- Queues.
+- Trees.
+- Searching Algorithms.
+- Sorting Algorithms.
+- Algorithms and problem-solving techniques.
+
+#### Practical Exercises
+- Studied different data structures and their applications.
+- Explored how data structures organize, store and manage information.
+- Covered searching and sorting techniques for processing data.
+
+#### Challenges and Solutions
+Specific academic challenges and solutions will be documented as they are recalled and verified.
+
+#### Key Learning Outcomes
+- Understanding how different data structures organize and manage data.
+- Recognizing the appropriate use of different data structures.
+- Understanding searching and sorting techniques.
+- Developing algorithmic and problem-solving skills.
 ### 3. Computer Hardware
 
 - **Status:** Completed
