@@ -110,6 +110,39 @@ Specific academic challenges and solutions will be documented as they are recall
 - Understanding the role of the CPU and motherboard.
 - Identifying input and output devices.
 - Developing foundational hardware troubleshooting knowledge.
+
+- ### 4. Fundamentals of Digital Systems
+
+- **Status:** Completed
+- **Completion Date:** Not recorded
+
+#### Topics Covered
+- Logic gates and their operations.
+- Logic gate symbols.
+- Truth tables.
+- Boolean algebra.
+- Binary number systems.
+- Weighted number systems.
+- Non-weighted number systems.
+- Number-system conversions, including binary, decimal, octal and hexadecimal.
+
+#### Practical Exercises
+- Studied the operations and functions of different logic gates.
+- Worked with truth tables to understand logic gate outputs.
+- Explored Boolean algebra and basic logical operations.
+- Studied weighted and non-weighted number systems.
+- Practised number-system conversions between binary, decimal, octal and hexadecimal.
+
+#### Challenges and Solutions
+Specific academic challenges and solutions will be documented as they are recalled and verified.
+
+#### Key Learning Outcomes
+- Understanding the foundations of digital systems.
+- Identifying and explaining basic logic gates.
+- Interpreting truth tables and logical operations.
+- Understanding Boolean algebra.
+- Differentiating between weighted and non-weighted number systems.
+- Converting numbers between different number systems.
 ## Additional Learning
 
 Other subjects and topics will be documented as their study progress and completion status are confirmed.
