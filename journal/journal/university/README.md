@@ -1,14 +1,50 @@
 # University Learning
 
-Use this section to document learning from the BSc Applied Information Technology programme at ISBAT University.
+This section documents my academic learning and development throughout the BSc Applied Information Technology programme at ISBAT University.
 
-For each meaningful milestone, record:
+## Completed Course Units
 
-- Unit or subject
-- Topic covered
-- Key concepts understood
-- Practical exercises or assignments
-- Challenges and how they were addressed
-- Completion date and next learning step
+The following units have previously been confirmed as completed:
 
-Only record results that have actually been completed. Do not include private academic records or sensitive personal information.
+### 1. Relational Database Management Systems (RDMS)
+
+- **Status:** Completed
+- **Completion Date:** Not recorded
+- **Topics Covered:** To be documented.
+- **Practical Exercises:** To be documented.
+- **Challenges and Solutions:** To be documented.
+- **Key Lessons:** To be documented.
+
+### 2. Data Structures
+
+- **Status:** Completed
+- **Completion Date:** Not recorded
+- **Topics Covered:** To be documented.
+- **Practical Exercises:** To be documented.
+- **Challenges and Solutions:** To be documented.
+- **Key Lessons:** To be documented.
+
+### 3. Computer Hardware
+
+- **Status:** Completed
+- **Completion Date:** Not recorded
+- **Topics Covered:** To be documented.
+- **Practical Exercises:** To be documented.
+- **Challenges and Solutions:** To be documented.
+- **Key Lessons:** To be documented.
+
+## Additional Learning
+
+Other subjects and topics will be documented as their study progress and completion status are confirmed.
+
+## Academic Documentation Principles
+
+- Record genuine academic progress.
+- Document practical exercises and assignments.
+- Capture technical challenges and their solutions.
+- Distinguish completed units from ongoing studies.
+- Never invent grades, completion dates or academic achievements.
+
+---
+
+*Learning systematically. Applying knowledge. Building technical competence.*
