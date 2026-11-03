@@ -10,6 +10,45 @@ The following units have previously been confirmed as completed:
 
 - **Status:** Completed
 - **Completion Date:** Not recorded
+
+#### Topics Studied
+- Relational database concepts and database management.
+- Primary keys and foreign keys.
+- Relationships between database tables.
+- SQL joins.
+- Database normalization.
+- Constraints and data integrity.
+- SQL aggregate functions, including `COUNT()`, `SUM()` and `AVG()`.
+- SQL data manipulation and retrieval.
+
+#### Practical Application
+Applied SQL and relational database concepts while developing the Hospital Management System and Project Upgrade using Microsoft SQL Server.
+
+Practical work included:
+- Creating and managing the `HospitalManagementDB` database.
+- Designing tables for Patients, Doctors, Staff, Appointments, Billing and Users.
+- Performing CRUD operations using `INSERT`, `SELECT`, `UPDATE` and `DELETE`.
+- Writing SQL queries for searching and retrieving records.
+- Using primary keys and relationships to organise related records.
+- Using aggregate functions and queries to calculate dashboard statistics.
+- Connecting Java Swing applications to SQL Server using JDBC and `PreparedStatement`.
+- Integrating database operations into application forms and reports.
+
+#### Practical Projects
+- Hospital Management System — database creation, table design, SQL queries and Java database integration.
+- Project Upgrade — continued database integration and improvements to hospital management functionality.
+
+#### Key Learning Outcomes
+- Understanding relational database structures.
+- Writing SQL queries to manage and retrieve information.
+- Understanding relationships and data integrity.
+- Applying database concepts in real software projects.
+- Integrating Java applications with Microsoft SQL Server.
+
+#### Challenges and Solutions
+Specific academic challenges and solutions will be documented as they are recalled and verified.
+- **Status:** Completed
+- **Completion Date:** Not recorded
 - **Topics Covered:** To be documented.
 - **Practical Exercises:** To be documented.
 - **Challenges and Solutions:** To be documented.
