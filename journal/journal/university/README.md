@@ -79,15 +79,37 @@ Specific academic challenges and solutions will be documented as they are recall
 - Recognizing the appropriate use of different data structures.
 - Understanding searching and sorting techniques.
 - Developing algorithmic and problem-solving skills.
+
 ### 3. Computer Hardware
 
 - **Status:** Completed
 - **Completion Date:** Not recorded
-- **Topics Covered:** To be documented.
-- **Practical Exercises:** To be documented.
-- **Challenges and Solutions:** To be documented.
-- **Key Lessons:** To be documented.
 
+#### Topics Covered
+- Central Processing Unit (CPU).
+- Random Access Memory (RAM).
+- Read-Only Memory (ROM).
+- Motherboard and its functions.
+- Computer storage devices.
+- Input and output devices.
+- Internal and external computer components.
+- Basic hardware troubleshooting.
+
+#### Practical Exercises
+- Studied the functions of major computer hardware components.
+- Explored how CPU, memory and storage work together.
+- Examined input and output devices and their roles.
+- Studied basic hardware troubleshooting techniques.
+
+#### Challenges and Solutions
+Specific academic challenges and solutions will be documented as they are recalled and verified.
+
+#### Key Learning Outcomes
+- Understanding the functions of major computer components.
+- Differentiating between RAM, ROM and storage devices.
+- Understanding the role of the CPU and motherboard.
+- Identifying input and output devices.
+- Developing foundational hardware troubleshooting knowledge.
 ## Additional Learning
 
 Other subjects and topics will be documented as their study progress and completion status are confirmed.
